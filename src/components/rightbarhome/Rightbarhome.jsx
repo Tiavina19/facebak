@@ -8,12 +8,12 @@ const Rightbarhome = () => {
     <div className="rightbarhome">
       <div className="birthdayContainer">
         <img
-          src="/assets/birthdaygifts/gift.png"
+          src="../pictures/Others/gift-1420830_1920.jpg"
           alt=""
           className="birthdayImg"
         />
         <span className="birthdayText">
-          <b>Sarah Dane</b> and <b>other friends</b> have a birthday today
+          <b>Andy Nirina</b> and <b>other friends</b> have a birthday today
         </span>
       </div>
       <img src="/assets/ads/adv.jpg" alt="" className="rightbarAdvert" />

@@ -8,9 +8,9 @@ const Register = () => {
     <div className="register">
       <div className="registerWrapper">
         <div className="registerLeft">
-          <h3 className="registerLogo">FaceBook</h3>
+          <h3 className="registerLogo">Faceak</h3>
           <span className="registerDesc">
-            Connect with friends and the world around you on Facebook.
+            Connect with friends and the world around you on our Facebak.
           </span>
         </div>
         <div className="registerRight">
